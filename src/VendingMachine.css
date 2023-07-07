@@ -1,0 +1,23 @@
+.VendingMachine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.VendingMachine img {
+    width: 40em;
+}
+
+.VendingMachine-links{
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 4rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.VendingMachine-description{
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 4rem;
+    border-radius: 2rem;
+}
